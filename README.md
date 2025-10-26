@@ -1,6 +1,6 @@
 👋   Hi, I’m Awais (@awais10015)
 
-👀   I’m interested in Web Development and currently focused on building projects in the MERN stack.
+👀   I’m interested in Web Development and DevOps and currently focused on learning DevOps.
 
 🌱   As a Computer Science graduate, I’m committed to expanding my skills and working on innovative web solutions.
 
