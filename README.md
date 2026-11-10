@@ -134,6 +134,7 @@ SaaS Architecture · Multi-Tenancy · Background Jobs · API Design · Cloud Int
   <img src="https://skillicons.dev/icons?i=jest,postman,vscode,git,github" />
 </p>
 
+---
 
 ## Areas of Expertise
 
