@@ -1,112 +1,229 @@
-# 👋 Hi, I'm M. Awais
+# <div align="center">M. Awais</div>
 
-### Full Stack Developer | Building Scalable Web Applications & SaaS Platforms 🚀
+<h3 align="center">Full Stack Developer | Software Engineer | SaaS Developer</h3>
 
-I'm a Full Stack Developer with **2 years of hands-on experience** building and shipping production-ready web applications. I specialize in modern frontend development, backend architecture, database design, and cloud integrations.
+<p align="center">
+  Building scalable applications and transforming ideas into reliable software solutions.
+</p>
 
-I enjoy transforming complex requirements into scalable, reliable, and user-friendly products.
-
----
-
-### 👨‍💻 About Me
-
-- 💼 Currently working as an **Associate Full Stack Developer at Rev9 Solutions**
-- 🌱 Experienced in building scalable, multi-tenant SaaS applications
-- ⚡ Passionate about backend architecture, performance optimization, and cloud technologies
-- 🔭 Working with event-driven systems, background jobs, and REST/GraphQL APIs
-- ☁️ Experienced with AWS S3, Glacier, and Stripe integrations
-- 🎓 BS Computer Science – University of the Punjab (2021–2025)
-- 📍 Jhelum, Pakistan
-
----
-
-### 🛠️ Tech Stack & Tools
-
-**Languages**
-<br/>
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-
-**Frontend Development**
-<br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/Redux_Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Three.js](https://img.shields.io/badge/Three.js-black?style=for-the-badge&logo=threedotjs&logoColor=white)
-
-**Backend Development**
-<br/>
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-
-**Databases & Caching**
-<br/>
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-
-**Cloud, DevOps & Tools**
-<br/>
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+<p align="center">
+  <a href="https://github.com/awais10015">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/awais10015">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://awaiscodes.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:awais10015@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-### 🚀 Featured Projects
+<table>
+<tr>
+<td width="52%" valign="top">
 
-#### 1. ArchNova – Archaeology Data Management SaaS
-- Developed artifact lifecycle management and preservation services.
-- Implemented OCR processing, team tenancy, and quota management.
-- Built background jobs for archiving and data processing.
-- Integrated AWS S3, Glacier, Stripe, and MongoDB.
+## About Me
 
-**Technologies:** Laravel, PHP, React.js, MySQL, MongoDB, AWS, Stripe.
+I'm **M. Awais**, a Full Stack Developer with 2 years of hands-on experience building modern, scalable, and production-ready applications.
 
-#### 2. Vycare – Hospital Management Platform
-- Developed appointment scheduling and calendar management.
-- Implemented room booking, OT scheduling, and ward reservations.
-- Integrated Stripe for online payments.
+I specialize in SaaS development, backend architecture, API development, database management, and cloud integrations.
 
-**Technologies:** React.js, Laravel, MySQL, Stripe.
+I enjoy solving complex engineering problems and building reliable software with clean, maintainable code.
 
-#### 3. Personal Projects
-LineOne | MyStore | Healix | Sundown Studio | iPhone Clone | DailyBook | Real-Time Dashboard
+**Professional Background**
 
-Explore my repositories for more projects and implementation details.
+- Associate Full Stack Developer
+- Rev9 Solutions
+- BS Computer Science
+- Based in Pakistan
+
+**What I Do**
+
+- Build scalable SaaS platforms
+- Design backend architectures
+- Develop REST and GraphQL APIs
+- Integrate cloud services
+- Optimize application performance
+
+</td>
+<td width="48%" valign="top">
+
+## Technical Overview
+
+**Frontend**
+
+React.js · Next.js · Redux Toolkit · Tailwind CSS · Three.js
+
+**Backend**
+
+Node.js · Express.js · NestJS · Laravel · PHP
+
+**Databases**
+
+MongoDB · MySQL · PostgreSQL · Redis
+
+**Cloud & Infrastructure**
+
+AWS S3 · AWS Glacier · Docker
+
+**Development Tools**
+
+Git · GitHub · Jest · Postman · VS Code
+
+**Core Focus**
+
+SaaS Architecture · Multi-Tenancy · Background Jobs · API Design · Cloud Integration
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 📊 What I Focus On
+## Tech Stack & Tools
 
-- Scalable SaaS Architecture
-- Multi-Tenant Applications
-- Event-Driven Backend Systems
-- REST APIs & GraphQL
-- Performance Optimization
-- Background Jobs, Queues & Workers
-- Cloud Storage & Integrations
-- Responsive UI & Interactive Experiences
+<p align="center">
+  <strong>Languages & Frontend</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,php,react,nextjs,redux,tailwind,threejs" />
+</p>
+
+<p align="center">
+  <strong>Backend & Databases</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,nestjs,laravel,mongodb,mysql,postgres,redis" />
+</p>
+
+<p align="center">
+  <strong>Cloud, DevOps & Infrastructure</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins,githubactions,linux,nginx" />
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=prometheus,grafana,bash,git,github,vscode" />
+</p>
+
+<p align="center">
+  <strong>Configuration Management & Automation</strong>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Chef-F09820?style=for-the-badge&logo=chef&logoColor=white" />
+  <img src="https://img.shields.io/badge/Puppet-FFAE1A?style=for-the-badge&logo=puppet&logoColor=black" />
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" />
+  <img src="https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white" />
+</p>
+
+<p align="center">
+  <strong>Testing & Development Tools</strong>
+</p>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=jest,postman,vscode,git,github" />
+</p>
+
+
+## Areas of Expertise
+
+<table>
+<tr>
+<td align="center" width="25%" valign="top">
+
+**01**
+
+### Frontend Development
+
+Modern UI Development
+
+Responsive Interfaces
+
+State Management
+
+</td>
+<td align="center" width="25%" valign="top">
+
+**02**
+
+### Backend Development
+
+API Architecture
+
+Authentication
+
+Background Processing
+
+</td>
+<td align="center" width="25%" valign="top">
+
+**03**
+
+### Cloud & Databases
+
+AWS Integration
+
+Database Design
+
+Caching & Optimization
+
+</td>
+<td align="center" width="25%" valign="top">
+
+**04**
+
+### DevOps & Deployment
+
+Docker & Containerization
+
+Cloud Deployment
+
+CI/CD Workflows
+
+Application Hosting
+
+</td>
+</tr>
+</table>
 
 ---
 
-### 🤝 Let's Connect
+## Connect With Me
 
-I'm always interested in connecting with developers, collaborating on interesting projects, and exploring new opportunities.
+<p align="center">
+  I'm always open to connecting with developers, discussing interesting ideas, and collaborating on meaningful projects.
+</p>
 
-- 🌐 **Portfolio:** https://awaiscodes.vercel.app
-- 💼 **LinkedIn:** https://linkedin.com/in/awais10015
-- 🐙 **GitHub:** https://github.com/awais10015
-- 📧 **Email:** awais10015@gmail.com
+<p align="center">
+  <a href="https://linkedin.com/in/awais10015">
+    <img src="https://img.shields.io/badge/LET'S_CONNECT-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://awaiscodes.vercel.app">
+    <img src="https://img.shields.io/badge/VISIT_PORTFOLIO-6C63FF?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+  <a href="mailto:awais10015@gmail.com">
+    <img src="https://img.shields.io/badge/CONTACT_ME-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
 ---
 
-⭐ Thanks for visiting my profile! Feel free to explore my repositories and connect with me.
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=awais10015&label=PROFILE%20VIEWS&color=6C63FF&style=flat-square" />
+</p>
+
+<h3 align="center">Thanks for visiting my profile.</h3>
+
+<p align="center">
+  <i>Clean Code. Scalable Systems. Meaningful Solutions.</i>
+</p>
